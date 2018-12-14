@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runways>
+   <runway>
+    <runway_name>ExampleRunwayOne</runway_name>
+    <runway_id>1</runway_id>
+    <toda_from_left>4000.0</toda_from_left>
+    <toda_from_right>4000.0</toda_from_right>
+    <tora>3030.0</tora>
+    <asda_from_left>4000.0</asda_from_left>
+    <asda_from_right>4000.0</asda_from_right>
+    <lda_from_left>3030.0</lda_from_left>
+    <lda_from_right>3030.0</lda_from_right>
+    <take_off_plane_blast_distance>400.0</take_off_plane_blast_distance>
+  </runway>
+	<runway>
+    <runway_name>ExampleRunwayTwo</runway_name>
+    <runway_id>2</runway_id>
+    <toda_from_left>400.0</toda_from_left>
+    <toda_from_right>350.0</toda_from_right>
+    <tora>300.0</tora>
+    <asda_from_left>500.0</asda_from_left>
+    <asda_from_right>600.0</asda_from_right>
+    <lda_from_left>300.0</lda_from_left>
+    <lda_from_right>300.0</lda_from_right>
+    <take_off_plane_blast_distance>900.0</take_off_plane_blast_distance>
+  </runway>
+<runway>
+    <runway_name>ExampleRunwayThree</runway_name>
+    <runway_id>3</runway_id>
+    <toda_from_left>3000</toda_from_left>
+    <toda_from_right>2500</toda_from_right>
+    <tora>2500</tora>
+    <asda_from_left>2700</asda_from_left>
+    <asda_from_right>3000</asda_from_right>
+    <lda_from_left>2500</lda_from_left>
+    <lda_from_right>2500</lda_from_right>
+    <take_off_plane_blast_distance>220</take_off_plane_blast_distance>
+  </runway>
+</runways>

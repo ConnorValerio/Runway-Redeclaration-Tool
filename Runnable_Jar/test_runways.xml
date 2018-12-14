@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runways>
+   <runway>
+	<runway_name>Test Runway One</runway_name>
+    <runway_id>1</runway_id>
+	<toda_from_left>100</toda_from_left>
+	<toda_from_right>200</toda_from_right>
+	<tora>300</tora>
+	<asda_from_left>400</asda_from_left>
+	<asda_from_right>500</asda_from_right>
+	<lda_from_left>600</lda_from_left>
+	<lda_from_right>700</lda_from_right>
+	<take_off_plane_blast_distance>800</take_off_plane_blast_distance>
+   </runway>
+    <runway>
+	<runway_name>Test Runway Two</runway_name>
+    <runway_id>2</runway_id>
+	<toda_from_left>11</toda_from_left>
+	<toda_from_right>21</toda_from_right>
+	<tora>31</tora>
+	<asda_from_left>41</asda_from_left>
+	<asda_from_right>51</asda_from_right>
+	<lda_from_left>61</lda_from_left>
+	<lda_from_right>71</lda_from_right>
+	<take_off_plane_blast_distance>81</take_off_plane_blast_distance>
+   </runway>
+   <runway>
+	<runway_name>Test Runway Three</runway_name>
+    <runway_id>3</runway_id>
+	<toda_from_left>120</toda_from_left>
+	<toda_from_right>240</toda_from_right>
+	<tora>360</tora>
+	<asda_from_left>480</asda_from_left>
+	<asda_from_right>600</asda_from_right>
+	<lda_from_left>720</lda_from_left>
+	<lda_from_right>840</lda_from_right>
+	<take_off_plane_blast_distance>960</take_off_plane_blast_distance>
+   </runway>
+</runways>

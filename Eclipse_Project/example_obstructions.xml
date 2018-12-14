@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<obstructions>
+    
+  <obstruction>
+        
+    <obstruction_name>Car</obstruction_name>
+        
+    <obstruction_width>2</obstruction_width>
+        
+    <obstruction_height>1.48</obstruction_height>
+        
+    <obstruction_length>4.3</obstruction_length>
+      
+  </obstruction>
+    
+  <obstruction>
+        
+    <obstruction_name>Passenger Shuttle Bus</obstruction_name>
+        
+    <obstruction_width>2.5</obstruction_width>
+        
+    <obstruction_height>3</obstruction_height>
+        
+    <obstruction_length>12</obstruction_length>
+      
+  </obstruction>
+    
+  <obstruction>
+        
+    <obstruction_name>Baggage Lorry</obstruction_name>
+        
+    <obstruction_width>2</obstruction_width>
+        
+    <obstruction_height>1.9</obstruction_height>
+        
+    <obstruction_length>4.5</obstruction_length>
+      
+  </obstruction>
+    
+  <obstruction>
+        
+    <obstruction_name>Mobile Staircase</obstruction_name>
+        
+    <obstruction_width>2.5</obstruction_width>
+        
+    <obstruction_height>9</obstruction_height>
+        
+    <obstruction_length>9</obstruction_length>
+      
+  </obstruction>
+    
+  <obstruction>
+        
+    <obstruction_name>Refueler Tank</obstruction_name>
+        
+    <obstruction_width>2.4</obstruction_width>
+        
+    <obstruction_height>3.7</obstruction_height>
+        
+    <obstruction_length>12.3</obstruction_length>
+      
+  </obstruction>
+    
+  <obstruction>
+        
+    <obstruction_name>Ambulance</obstruction_name>
+        
+    <obstruction_width>2.4</obstruction_width>
+        
+    <obstruction_height>1.73</obstruction_height>
+        
+    <obstruction_length>4.26</obstruction_length>
+      
+  </obstruction>
+  
+  <obstruction>
+    <obstruction_name>ConnorObstruction</obstruction_name>
+    <obstruction_width>100.0</obstruction_width>
+    <obstruction_height>100.0</obstruction_height>
+    <obstruction_length>100.0</obstruction_length>
+  </obstruction>
+</obstructions>

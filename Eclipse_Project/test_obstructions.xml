@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<obstructions>
+  <obstruction>
+    <obstruction_name>Test One</obstruction_name>
+    <obstruction_width>4</obstruction_width>
+    <obstruction_height>1.8</obstruction_height>
+    <obstruction_length>2.3</obstruction_length>
+  </obstruction>
+  <obstruction>
+    <obstruction_name>Test Two</obstruction_name>
+    <obstruction_width>2.5</obstruction_width>
+    <obstruction_height>7.5</obstruction_height>
+    <obstruction_length>12.5</obstruction_length>
+  </obstruction>
+  <obstruction>
+    <obstruction_name>Test Three</obstruction_name>
+    <obstruction_width>2</obstruction_width>
+    <obstruction_height>4</obstruction_height>
+    <obstruction_length>6</obstruction_length>
+  </obstruction>
+  <obstruction>
+    <obstruction_name>Test Four</obstruction_name>
+    <obstruction_width>25</obstruction_width>
+    <obstruction_height>50</obstruction_height>
+    <obstruction_length>75</obstruction_length>
+  </obstruction>
+  <obstruction>
+    <obstruction_name>Test Five</obstruction_name>
+    <obstruction_width>30</obstruction_width>
+    <obstruction_height>60</obstruction_height>
+    <obstruction_length>90</obstruction_length>
+  </obstruction>
+  <obstruction>
+    <obstruction_name>Test Six</obstruction_name>
+    <obstruction_width>100</obstruction_width>
+    <obstruction_height>200</obstruction_height>
+    <obstruction_length>300</obstruction_length>
+  </obstruction>
+</obstructions>
